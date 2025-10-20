@@ -1,0 +1,11 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000; /* خلفية سوداء */
+    color: #ff0000; /* نصوص حمراء */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    direction: rtl; ⬤
